@@ -1,1 +1,0 @@
-# Predicting-the-Price-of-a-Small-Crypto-Currency-Using-Twitter-Based-Sentiment-Indicators
